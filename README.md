@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChocolateFudgeCake12
-- 👀 I’m interested in python, and making chat applications
-- 🌱 I’m currently learning C, HTML, Javascript, and CSS
+- 👀 I’m interested in python
+- 🌱 I’m currently learning C++, HTML, Javascript, and CSS
 - 💞️ I’m looking to collaborate on making more applications
 - 📫 How to reach me: Send me a email at Chocolatefudge@mail.com
 
